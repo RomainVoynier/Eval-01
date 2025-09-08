@@ -1,0 +1,7 @@
+La première fonction sert a déterminer la longueur de la string 's'. Elle renvoie un booléen, 
+false si la longueur est inferieure a 1, true sinon. Si la longueur est superieure a 1, 
+la fonction renvoie tous les caractctéres de 's'.
+
+La deuxième fonction prend comme argument 'a' un byte c'est a dire un octet brut , renvoyant 
+également un booléen . Elle vérifie si 'a' est une lettre comprise entre "a" et "z" & 
+entre "A" et "Z"
