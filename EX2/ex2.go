@@ -11,7 +11,7 @@ func IsAlpha(s string) bool {
 	return true
 }
 
-func CountLetters(s string) int {
+func main(s string) int {
 	for _, r := range s {
 		return len(s)
 	}
