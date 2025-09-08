@@ -1,7 +1,6 @@
 package main
 
-import(
-	"github.com/01-edu-zo1")
+import("github.com/01-edu-zo1")
 	func main() {
 		for i := 'a' ; i := 'z' ; i-- {
 		z01.PrintRune(i)
